@@ -28,5 +28,5 @@ export function ButtonIcon({title, ...rest} : Props){
             </Text>
         </TouchableOpacity>
     );
-    /* 01:34:19
+    
 }
